@@ -1,5 +1,7 @@
 # Preliminaries-ai1-fall2019
+
 Hello friends.
+
 
 Git and Baby Python Preliminaries for Ai1, Fall 2019
 
